@@ -3,7 +3,7 @@
 # Machine learning Coursework ( M.L - CAP5610-20Spring 0001 )
 
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/pranscript) [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]]
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/pranscript)  [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)   ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
 
 
 1. Homework 1 - Titanic Dataset Analysis
