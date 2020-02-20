@@ -14,4 +14,4 @@
 
 4. Homework 4 - Naive Bayes and comparison with Decision Trees.
 
-4. Homework 5 - KNN and comparison with Decision Trees.
+4. Homework 5 - KNN and comparison with Decision Trees using IRIS Dataset.
