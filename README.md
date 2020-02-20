@@ -13,3 +13,5 @@
 3. Homework 3 - Decision Trees ( ID3, C4.5 & CART )
 
 4. Homework 4 - Naive Bayes and comparison with Decision Trees.
+
+4. Homework 5 - KNN and comparison with Decision Trees.
