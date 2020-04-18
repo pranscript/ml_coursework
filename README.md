@@ -12,6 +12,12 @@
 
 3. Homework 3 - Decision Trees ( ID3, C4.5 & CART )
 
-4. Homework 4 - Naive Bayes and comparison with Decision Trees.
+4. Homework 4 - Naive Bayes and comparison with Decision Trees
 
-4. Homework 5 - KNN and comparison with Decision Trees using IRIS Dataset.
+5. Homework 5 - KNN and comparison with Decision Trees using IRIS Dataset
+
+6. Homework 6 - K-means clustering using different distance metric
+
+7. Homework 7 - Evaluation of Recommender System
+
+[![HitCount](http://hits.dwyl.com/pranscript/ml_coursework.svg)](http://hits.dwyl.com/pranscript/ml_coursework)
