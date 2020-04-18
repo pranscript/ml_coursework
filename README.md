@@ -11,7 +11,7 @@
 
 ****
 
-1. Homework 1 - [Titanic Dataset Analysis](../blob/master/Homework_1.ipynb)
+1. Homework 1 - [Titanic Dataset Analysis](./blob/master/Homework_1.ipynb)
 
 2. Homework 2 - Titanic Dataset Preprocessing
 
