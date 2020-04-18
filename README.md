@@ -5,10 +5,13 @@
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/pranscript)  [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)   ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
 
-## Instructor - [I'm an inline-style link with title](https://yanjiefu.com/ "Yanjie Fu")
+****
 
+### Instructor - [Yanjie Fu](https://yanjiefu.com/ "Yanjie Fu")
 
-1. Homework 1 - Titanic Dataset Analysis
+****
+
+1. Homework 1 - [Titanic Dataset Analysis](../blob/master/Homework_1.ipynb)
 
 2. Homework 2 - Titanic Dataset Preprocessing
 
@@ -22,5 +25,6 @@
 
 7. Homework 7 - Evaluation of Recommender System
 
+****
 
 [![HitCount](http://hits.dwyl.com/pranscript/ml_coursework.svg)](http://hits.dwyl.com/pranscript/ml_coursework)
